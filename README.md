@@ -1,2 +1,2 @@
 # CNEA-labs
-Collecctios of Python and Matlab scripts for 'Calcolo Numerido ed Elementi di Analisi' course at Politecnico di Milano. Lab lessons are an introduction to practical numerical computing.
+Collections of Python and Matlab scripts for 'Calcolo Numerico ed Elementi di Analisi' class at Politecnico di Milano. Lab lessons are an introduction to practical numerical computing.
